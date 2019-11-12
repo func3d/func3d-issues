@@ -13,14 +13,14 @@ Please read the guidelines below before posting a new ticket.
 
 ## Guidelines
 
-### Bug report
+### Bug reports
 When submitting a bug report please provide as much detail as possible. This includes:
  - which browser and version you're using (Chrome, Firefox, Safari, IE, etc.)
  - which operating system and version you're using (MacOS, Windows, Ubuntu Linux, etc.)
  - what page the bug occurred on and what steps are necessary to reproduce the issue
  - any other relevant information.
 
-### Security issue
+### Security issues
 Please follow reasonable disclosure practices and refrain from posting security concerns/exploits on the issues page. You can email these issues directly to hello+security@func3d.xyz and we'll address them ASAP.
 
 ### Feature requests
