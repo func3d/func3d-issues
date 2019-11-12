@@ -21,7 +21,7 @@ When submitting a bug report please provide as much detail as possible. This inc
  - any other relevant information.
 
 ### Security issue
-Please follow reasonable disclosure practices and refrain from posting security concerns/exploits on the issues page. You can email these issues directly to hello@func3d.xyz and we'll address them ASAP.
+Please follow reasonable disclosure practices and refrain from posting security concerns/exploits on the issues page. You can email these issues directly to hello+security@func3d.xyz and we'll address them ASAP.
 
 ### Feature requests
 If you have a great idea for a new feature, please describe it in detail. This includes its benefits, any foreseen issues or disruptions to existing features or services, and any examples of similar features you've found on other sites.
